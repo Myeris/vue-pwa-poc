@@ -1,26 +1,31 @@
-# vue-pwa-poc
+# Vue.js PWA Proof of concept
 
-## Project setup
+Repository to support this Medium article:
+
+![Video](./src/assets/out.gif "Video")
+
+## Live example
+
+You can test the app there: 
+[Vue.js PWA POC](https://vue-pwa-poc.firebaseapp.com/home)
+
+## Use in standalone
+
+Android should prompt you to install the app on your homescreen.
+On iOS, you will need to go in "Share" => "Add to homescreen".   
+
+## Running the app locally
+
+Run the following command
+
 ```
-yarn install
+yarn install && yarn serve
 ```
 
-### Compiles and hot-reloads for development
+## Build the app
+
 ```
-yarn run serve
+yarn build
 ```
 
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
+The app will be served on [http://localhost:8080](http://localhost:8080).

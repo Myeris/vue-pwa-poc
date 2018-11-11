@@ -1,5 +1,5 @@
 {
-  "name": "vue-pwa-poc",
+  "name": "VueJS PWA Proof Of Concept",
   "short_name": "vue-pwa-poc",
   "icons": [
     {
@@ -13,7 +13,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "./index.html",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#4DBA87"
