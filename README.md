@@ -1,8 +1,6 @@
 # Vue.js PWA Proof of concept
 
-Repository to support this Medium article:
-
-![Video](./src/assets/out.gif "Video")
+<img src="https://github.com/Myeris/vue-pwa-poc/raw/master/src/assets/out.gif" width="200" height="auto" title="Vue.js PWA POC">
 
 ## Live example
 
