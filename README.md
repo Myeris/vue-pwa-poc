@@ -1,6 +1,9 @@
 # Vue.js PWA Proof of concept
 
+This POC has been made to illustrate this article: [Getting started with PWAs: an iOS nightmare](https://medium.com/@myeris/getting-started-with-pwas-an-ios-nightmare-f0712c2f950)
+
 <img src="https://github.com/Myeris/vue-pwa-poc/raw/master/src/assets/out.gif" width="200" height="auto" title="Vue.js PWA POC">
+
 
 ## Live example
 
